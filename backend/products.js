@@ -4,7 +4,7 @@ const products = [
     name: "Axe body wash",
     description:
       "An iconic combo of fresh sage & cedarwood scent with long-lasting odor protection",
-    price: "300",
+    price: "$30",
     image:
       "https://res.cloudinary.com/dvuszoody/image/upload/v1663774015/shopping-spree/bodyWash_qvrcf7.png",
   },
@@ -13,7 +13,7 @@ const products = [
     name: "Cleo soap",
     description:
       "An iconic combo of fresh sage & cedarwood scent with long-lasting odor protection",
-    price: "300",
+    price: "$30",
     image:
       "https://res.cloudinary.com/dvuszoody/image/upload/v1663774010/shopping-spree/soap_dkx5pa.jpg",
   },
@@ -22,7 +22,7 @@ const products = [
     name: "Bio-oil lotion",
     description:
       "Bio oil body Lotion pioneers a new level of lightness and efficacy in body moisturisation",
-    price: "450",
+    price: "$45",
     image:
       "https://res.cloudinary.com/dvuszoody/image/upload/v1663774010/shopping-spree/bio-oil_owp2nf.jpg",
   },
@@ -31,7 +31,7 @@ const products = [
     name: "Cetaphil oily skin cleanser",
     description:
       "The Cetaphil restoraderm body wash is formulated to soothe dry, sensitive skin",
-    price: "270",
+    price: "$27",
     image:
       "https://res.cloudinary.com/dvuszoody/image/upload/v1663774010/shopping-spree/cleanser_nxjwoe.jpg",
   },
@@ -40,7 +40,7 @@ const products = [
     name: "Bio-oil lotion",
     description:
       "Bio oil body Lotion pioneers a new level of lightness and efficacy in body moisturisation",
-    price: "450",
+    price: "$45",
     image:
       "https://res.cloudinary.com/dvuszoody/image/upload/v1663774010/shopping-spree/bio-oil_owp2nf.jpg",
   },
@@ -49,7 +49,7 @@ const products = [
     name: "Cetaphil oily skin cleanser",
     description:
       "The Cetaphil restoraderm body wash is formulated to soothe dry, sensitive skin",
-    price: "270",
+    price: "$27",
     image:
       "https://res.cloudinary.com/dvuszoody/image/upload/v1663774010/shopping-spree/cleanser_nxjwoe.jpg",
   },
@@ -58,7 +58,7 @@ const products = [
     name: "Bio-oil lotion",
     description:
       "Bio oil body Lotion pioneers a new level of lightness and efficacy in body moisturisation",
-    price: "450",
+    price: "$45",
     image:
       "https://res.cloudinary.com/dvuszoody/image/upload/v1663774010/shopping-spree/bio-oil_owp2nf.jpg",
   },
@@ -67,7 +67,7 @@ const products = [
     name: "Cetaphil oily skin cleanser",
     description:
       "The Cetaphil restoraderm body wash is formulated to soothe dry, sensitive skin",
-    price: "270",
+    price: "$27",
     image:
       "https://res.cloudinary.com/dvuszoody/image/upload/v1663774010/shopping-spree/cleanser_nxjwoe.jpg",
   },
