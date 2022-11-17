@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cartIcon {
+  width: "30px";
+  height: "30px";
+  color: "green";
+}
