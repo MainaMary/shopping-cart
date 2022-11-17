@@ -31,12 +31,16 @@ const Cart = () => {
     dispatch(decreaseCart(item));
   };
   const handleClearCart = () => {
-    console.log("cart cleared");
     dispatch(clearCart());
   };
-  useEffect(() => {
+  const handleSubTotal = () => {
     dispatch(calculateSubTotal());
+  };
+
+  useEffect(() => {
+    handleSubTotal();
   }, [state]);
+
   return (
     <div>
       <Title>Shopping cart</Title>
