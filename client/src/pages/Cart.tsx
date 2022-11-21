@@ -152,6 +152,7 @@ const Header = styled.div`
   grid-template-columns: 3fr 2fr 1fr 1fr;
   width: 80%;
   height: auto;
+  margin-bottom: 12px;
   text-align: center;
 
   align-content: center;
