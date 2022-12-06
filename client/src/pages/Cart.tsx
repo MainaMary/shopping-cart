@@ -38,6 +38,7 @@ const Cart = () => {
     const handleSubTotal = () => {
       dispatch(calculateSubTotal());
     };
+    handleSubTotal();
   }, [state]);
 
   return (
