@@ -33,12 +33,11 @@ const Cart = () => {
   const handleClearCart = () => {
     dispatch(clearCart());
   };
-  const handleSubTotal = () => {
-    dispatch(calculateSubTotal());
-  };
 
   useEffect(() => {
-    handleSubTotal();
+    const handleSubTotal = () => {
+      dispatch(calculateSubTotal());
+    };
   }, [state]);
 
   return (
